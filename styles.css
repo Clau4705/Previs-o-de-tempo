@@ -5,7 +5,7 @@
     font-family: 'Open Sans', sans-serif;
 }
 body {
-    background-color: rgb(204, 96, 96);
+    background-color: rgb(68, 135, 223);
     display: flex;
     justify-content: center;
     align-items: center;
@@ -14,7 +14,7 @@ body {
 }
 
 .caixa-maior {
-    background-color: #1b6d86;/*  Troca cor de fundo  */
+    background-color: #5cb0ca;/*  Troca cor de fundo  */
     width: 95%; /*  Largura  */
     max-width: 420px; /*  Largura  Maxima */
     opacity: 0.8;/* transparencia do item */
@@ -24,7 +24,7 @@ body {
 }
 
 input {
-    background-color: #9994adea;
+    background-color: #d6dac4ea;
     border: none;
     color: #ffffff;
     font-size: 20px;
@@ -38,7 +38,7 @@ button {
     outline: none;
     padding: 10px;
     border-radius: 50px;
-    background-color: #eb7060e8;
+    background-color: #dfee0de8;
     float: right;
     cursor: pointer;
 }
