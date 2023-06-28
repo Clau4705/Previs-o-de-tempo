@@ -6,6 +6,7 @@ Projeto desenvolvido para praticar javascript,onde voçê pode pesquizar qual o 
 -  CSS 
 -Displey Flex
 - JavaScript
+- Consumo Api
 ## ⏲ Função
 Foi criado um input para digitar qualquer lugar e na lupa ao clicar irá aparecer o clima do lugar sugerido no input.
 
