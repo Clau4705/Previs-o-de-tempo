@@ -11,9 +11,9 @@ Projeto desenvolvido para praticar javascript,onde voçê pode pesquizar qual o 
 Foi criado um input para digitar qualquer lugar e na lupa ao clicar irá aparecer o clima do lugar sugerido no input.
 
 ## 🚀A página👌
-<img src="" alt="gif exibindo o desktop do site">
+<img src="./img/previsaoTempo.gif" alt="gif exibindo o desktop do site">
 
-<a href="" target= "-blank">Acesse a página online</a>
+<a href="https://chic-sherbet-2481a2.netlify.app/" target= "-blank">Acesse a página online</a>
 
 ## 🧞‍♀️ Desenvolvedora
 
